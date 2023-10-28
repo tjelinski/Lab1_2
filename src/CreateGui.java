@@ -1,6 +1,7 @@
+// tjelinski@student.wsb-nlu.edu.pl
+
 import javax.swing.JFrame;
 
-// tjelinski@student.wsb-nlu.edu.pl
 public class CreateGui {
     public static void main(String[] args) {
 
